@@ -1,4 +1,4 @@
-<h4>Doctors Portal</h4>
+<h2>Doctors Portal</h2>
 
 Live Website: https://doctors-portal-client-8ed1c.web.app/
 
